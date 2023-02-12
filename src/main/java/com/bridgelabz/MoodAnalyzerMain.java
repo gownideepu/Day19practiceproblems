@@ -25,5 +25,6 @@ public class MoodAnalyzerMain {
                 throw new MoodAnalysisException("Invalid Mood", MoodAnalysisException.Exception_Type.EMPTY);
         }
     }
+
 }
 
